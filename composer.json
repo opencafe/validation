@@ -9,6 +9,13 @@
             "email": "shahrokhniakan@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Anetwork\\Validation\\PersianValidationServiceProvider"
+            ]
+        }
+    }
     "autoload": {
         "psr-4": {
             "Anetwork\\Validation\\": "src"
