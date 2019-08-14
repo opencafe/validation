@@ -15,7 +15,7 @@
                 "Anetwork\\Validation\\PersianValidationServiceProvider"
             ]
         }
-    }
+    },
     "autoload": {
         "psr-4": {
             "Anetwork\\Validation\\": "src"
